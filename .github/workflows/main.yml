@@ -1,0 +1,1 @@
+flatpak build-bundle repo com.freerdp.FreeRDP.flatpak com.freerdp.FreeRDP --runtime-repo=https://flathub.org/repo/flathub.flatpakrepo
